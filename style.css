@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+     font-size: 25px;
+    background-color: aqua;
+}
+
+#main {
+    font-size: 30px;
+    font-family: fantasy;
+    color:red;
+}
+
+img {
+   width: 500px;  
+}
+
+#nature {
+    color: darkblue;
+}
+
+#cities {
+    color: darkblue;
+}
